@@ -9,3 +9,6 @@ Para exemplificar o uso de funções anônimas e eventos, foi desenvolvido um co
 
 ### Exercício 7.b
 Neste exercício foi elaborado um programa que lê o nome completo de uma pessoa, após essa leitura é criada uma senha inicial utilizando o sobrenome da pessoa seguido pelo número de vogais do nome completo.
+
+### Exercício 7.c
+Lógica desenvolvida para informar o valor a pagar de acordo com o convênio que a pessoa possuir.
