@@ -1,5 +1,5 @@
 function validarNome() {
-  var inNome = document.querySelector("input#inNome");
+  var inNome = document.querySelector("#inNome");
   var nome = inNome.value;
 
   if(nome == "" || nome.indexOf(" ") == -1) {
@@ -8,10 +8,10 @@ function validarNome() {
     return;
   }
 
-  document.querySelector("pre#outSenha").textContent = `${obterSobrenome(nome)}${contarVogais(nome)}`;
+  document.querySelector("#outSenha").textContent = `${obterSobrenome(nome)}${contarVogais(nome)}`;
 }
 
-var btGerar = document.querySelector("input#btGerar");
+var btGerar = document.querySelector("#btGerar");
 btGerar.addEventListener("click", validarNome);
 
 function obterSobrenome(nome) {
