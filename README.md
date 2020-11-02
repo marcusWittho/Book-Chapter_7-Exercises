@@ -6,3 +6,5 @@ Exercícios desenvolvidos durante a leitura do livro Lógica de Programação e 
 
 ### Exercício 7.6
 Para exemplificar o uso de funções anônimas e eventos, foi desenvolvido um controle de pedidos de uma pizzaria, alguns dos eventos utilizados foram, focus, keypress e change.
+
+### Exercício 7.a
